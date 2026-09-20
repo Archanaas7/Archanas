@@ -16,7 +16,7 @@ Hi, I'm Archana. I'm a final-year B.Com (Computer Applications) student. I mostl
 **Open to:** Internships and entry-level roles
 
 <p align="center">
-  <a href="PASTE-YOUR-WEBSITE-LINK">My timeline</a> ·
+  <a https://archanaas7.github.io/timeline/⁠">My timeline</a> ·
   <a href="https://www.linkedin.com/in/archana-s-2ba81a345?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> ·
   <a href="https://www.instagram.com/buildbyara?stkn=MjE1cHcza2s3bG12">Instagram</a>
 </p>
